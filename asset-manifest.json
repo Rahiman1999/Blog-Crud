@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Blog-Crud/static/css/main.927881ec.chunk.css",
+    "main.js": "/Blog-Crud/static/js/main.3b9a1bae.chunk.js",
+    "main.js.map": "/Blog-Crud/static/js/main.3b9a1bae.chunk.js.map",
+    "runtime-main.js": "/Blog-Crud/static/js/runtime-main.09579a2d.js",
+    "runtime-main.js.map": "/Blog-Crud/static/js/runtime-main.09579a2d.js.map",
+    "static/js/2.3d6e5b70.chunk.js": "/Blog-Crud/static/js/2.3d6e5b70.chunk.js",
+    "static/js/2.3d6e5b70.chunk.js.map": "/Blog-Crud/static/js/2.3d6e5b70.chunk.js.map",
+    "static/js/3.5f492fa9.chunk.js": "/Blog-Crud/static/js/3.5f492fa9.chunk.js",
+    "static/js/3.5f492fa9.chunk.js.map": "/Blog-Crud/static/js/3.5f492fa9.chunk.js.map",
+    "index.html": "/Blog-Crud/index.html",
+    "static/css/main.927881ec.chunk.css.map": "/Blog-Crud/static/css/main.927881ec.chunk.css.map",
+    "static/js/2.3d6e5b70.chunk.js.LICENSE.txt": "/Blog-Crud/static/js/2.3d6e5b70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09579a2d.js",
+    "static/js/2.3d6e5b70.chunk.js",
+    "static/css/main.927881ec.chunk.css",
+    "static/js/main.3b9a1bae.chunk.js"
+  ]
+}
